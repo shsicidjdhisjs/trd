@@ -1,3 +1,0 @@
-local lplr = game.Players.LocalPlayer
-setclipboard("https://discord.gg/gUugkwD3rM")
-lplr:Kick("dramaware is not availiable and is down for maintenance.\nhttps://discord.gg/gUugkwD3rM")
