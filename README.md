@@ -2,4 +2,4 @@
 the repo for dramaware
 
 # link to backend
-https://github.com/justirib/trd-bts (requires permission from irib <3)
+https://github.com/justirib/trd-backend (requires permission from irib <3)
