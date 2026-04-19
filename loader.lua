@@ -7,9 +7,9 @@ function sw_notify(content)
 end
 
 -- script links
-local script.camp = ""
-local script.movies = ""
-local script.expo = ""
+local script.camp = "https://raw.githubusercontent.com/shsicidjdhisjs/trd/refs/heads/main/script/modes/camp.lua"
+local script.movies = "https://raw.githubusercontent.com/shsicidjdhisjs/trd/refs/heads/main/script/modes/movies.lua" -- not out
+local script.expo = "https://raw.githubusercontent.com/shsicidjdhisjs/trd/refs/heads/main/script/modes/expo.lua" -- not out
 
 -- place ids
 local inCamp = game.PlaceId == 4939362930
