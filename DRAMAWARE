@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/shsicidjdhisjs/trd/refs/heads/main/down"))()
--- thanks for understanding
+game.Player.LocalPlayer:Kick("Discontinued")
