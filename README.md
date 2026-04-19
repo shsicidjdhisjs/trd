@@ -25,3 +25,7 @@ we do reccomend some exploits that you should use with dramaware which have been
 | macsploit | free | macOS | paid |
 | delta | free | android | keysys |
 | delta | free | iOS | keysys |
+
+# what if i don't want to use these exploits?
+more exploits + their status can be found on [weao](https://weao.gg)
+rule of thumb: if its 90+ UNC/sUNC, it'll work with out script
